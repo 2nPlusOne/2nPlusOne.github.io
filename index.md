@@ -2,32 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Development
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Snake 2000](/snake_2000)
+<img src="images/snake_thumbnail.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Creative
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Humans of Dharamshala](/humans_of_dharamshala)
+<img src="images/carpe-diem.jpeg?raw=true"/>
+
+[Photography](/https://www.eyeem.com/u/spiceofthelens)
+
+[Artwork](/https://www.instagram.com/rwebbart/)
 
 ---
 
+---
 
+### Other Interests
 
+[Advent of Code](/https://github.com/2nPlusOne/AoC-2021)
 
 ---

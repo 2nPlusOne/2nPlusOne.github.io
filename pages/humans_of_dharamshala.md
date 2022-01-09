@@ -24,7 +24,7 @@ While studying in Dharamshala, India, I volunteered with Hope Gallery/Wild Yak S
 
 ---
 
-### [Anonymous - Carpe Diem Patron](/pages/carpe_diem.md)
+### [Anonymous - Cafe Patron](/pages/carpe_diem.md)
 ![anonymous](../images/carpe-diem.jpeg)
 
 ---

@@ -12,13 +12,13 @@
 
 ## Creative
 
-### [Humans of Dharamshala](/humans_of_dharamshala)
-<img src="images/carpe-diem.jpeg?raw=true"/>
+### [Artwork](https://www.instagram.com/rwebbart/)
+<img src="images/eye.png?raw=true"/>
 
 ---
 
-### [Artwork](https://www.instagram.com/rwebbart/)
-<img src="images/eye.png?raw=true"/>
+### [Humans of Dharamshala](/humans_of_dharamshala)
+<img src="images/carpe-diem.jpeg?raw=true"/>
 
 ---
 ---

@@ -106,4 +106,4 @@ _Regarding concepts of Thangka which impact his modern style_
 Karma Sichoe – Traditional Thangka Artist Turned Contemporary Painter
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

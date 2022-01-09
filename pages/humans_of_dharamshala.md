@@ -4,35 +4,35 @@ While studying in Dharamshala, India, I volunteered with Hope Gallery/Wild Yak S
 ---
 ---
 
-### [Javid - Shopkeeper](/pages/javid.md)
+### [Javid - Shopkeeper](/pages/javid)
 ![Javid](../images/javid.jpg)
 
 ---
 
-### [Vijay - Shoe Doctor](/pages/vijay.md)
+### [Vijay - Shoe Doctor](/pages/vijay)
 ![Vijay](../images/vijay1.jpg)
 
 ---
 
-### [Riccardo - Student](/pages/riccardo.md)
+### [Riccardo - Student](/pages/riccardo)
 ![Riccardo](../images/riccardo.jpeg)
 
 ---
 
-### [Tenzin Losel - Student](/pages/tenzin_losel.md)
+### [Tenzin Losel - Student](/pages/tenzin_losel)
 ![Tenzin Losel](../images/tenzin-losel.jpg)
 
 ---
 
-### [Anonymous - Cafe Patron](/pages/carpe_diem.md)
+### [Anonymous - Cafe Patron](/pages/carpe_diem)
 ![anonymous](../images/carpe-diem.jpeg)
 
 ---
 ---
 
-### [Champa - Teacher](/pages/champa.md)
+### [Champa - Teacher](/pages/champa)
 Separate from the Humans of Dharamshala project, I also interviewed a Tibetan in-exile named Champa, who lived a nomadic lifestyle in Tibet until he was 8 years old.
 
 ---
 ---
-### [Return to Portfolio](/index.md)
+### [Return to Portfolio](/index)

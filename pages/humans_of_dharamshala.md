@@ -30,8 +30,13 @@ While studying in Dharamshala, India, I volunteered with Hope Gallery/Wild Yak S
 ---
 ---
 
-### [Champa - Teacher](/pages/champa)
-Separate from the Humans of Dharamshala project, I also interviewed a Tibetan in-exile named Champa, who lived a nomadic lifestyle in Tibet until he was 8 years old.
+## Extended Interviews with Tibetans
+
+### [Champa - Dance/Music Teacher](/pages/champa)
+
+---
+
+### [Karma - Contemporary Painter](/pages/karma)
 
 ---
 ---

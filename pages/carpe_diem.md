@@ -9,4 +9,4 @@ Anonymous - Cafe Patron
 
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

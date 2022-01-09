@@ -9,4 +9,4 @@ Half of Kashmir is occupied in Pakistan, and half is occupied in India: but the 
 Javid - Shopkeeper
 
 ---
-### [Back](/pages/humans_of_dharamshala)
+### [Back](/humans_of_dharamshala.md)

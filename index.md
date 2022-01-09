@@ -8,25 +8,26 @@
 <img src="images/snake_thumbnail.png?raw=true"/>
 
 ---
+---
 
 ### Creative
 
 [Humans of Dharamshala](/humans_of_dharamshala)
 <img src="images/carpe-diem.jpeg?raw=true"/>
 
---
+---
 
 [Artwork](https://www.instagram.com/rwebbart/)
 <img src="images/eye.png?raw=true"/>
 
 ---
-
 ---
 
 ### Hobbies
 
 [Advent of Code](https://github.com/2nPlusOne/AoC-2021)
 <img src="images/adventofcode.png?raw=true"/>
+
 --
 
 [Photography](https://www.eyeem.com/u/spiceofthelens)

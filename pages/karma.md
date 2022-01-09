@@ -1,4 +1,4 @@
-## Karma - Traditional Tibetan Thangka Artist Turned Contemporary Painter
+## Karma - Thangka Artist Turned Contemporary Painter
 ![Karma](../images/karma.jpg)
 
 **What artistic medium do you primarily work with?**

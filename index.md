@@ -5,7 +5,6 @@
 ### Development
 
 [Snake 2000](/snake_2000)
-<a href="/snake_2000)/>
 <img src="images/snake_thumbnail.png?raw=true"/>
 
 ---
@@ -13,7 +12,7 @@
 ### Creative
 
 [Humans of Dharamshala](/humans_of_dharamshala)
-<img src="images/carpe-diem.jpeg?raw=true"/>
+<img src="images/carpe-diem.jpeg" width="500/>
 
 [Photography](https://www.eyeem.com/u/spiceofthelens)
 <img src="images/humayun.png?raw=true"/>

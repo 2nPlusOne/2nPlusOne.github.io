@@ -12,4 +12,4 @@ Thanks for coming over to talk to me, I’m happy to share.”
 Riccardo - Student
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

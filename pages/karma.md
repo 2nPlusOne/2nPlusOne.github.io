@@ -1,6 +1,16 @@
 ## Karma - Thangka Artist Turned Contemporary Painter
 ![Karma](../images/karma.jpg)
 
+---
+---
+
+While in Dharamshala, I had the pleasure of meeting Karma Sichoe. Karma is a master of traditional Tibetan Thangka painting, with 25 years of experience. After leaving the tradition, he now creates contemporary art paintings and sculptures. My presentation about Tibetan Art can be accessed with [this link](../pdf/thangka_tibetan_art.pdf).
+
+Below is my conversation with Karma Sichoe.
+
+---
+---
+
 **What artistic medium do you primarily work with?**
 <br>
 “I work with Papier-mâché, waste material…”
@@ -58,7 +68,7 @@ _Regarding concepts of Thangka which impact his modern style_
 
 ---
 
-**Can you explain the conceptual process behind each of these panels?**
+**Could you explain the conceptual process behind each of these panels?**
 <br> ![Karma's Panel Painting](../images/karma_panels.jpg) <br>
 “I got this inspiration from Tibetan Thangka format paintings. I just put my own narrative, my own perspective. You see here the six panels. In thangka, this is what we call the wheel of life. Inside the wheel of life, there are six lives: god, demigod, human, hungry ghost, animal, and hell. Then I try to bring all these ideas and concepts into my own self: I take it very personal. Since I take it very personal, I make it into a portrait. Each is my own self portrait *laughs*. I try to paint what I understand as a life of god, human, demigod, hungry ghost, animal, and hell within my own personality. How do I identify all these characters of life in my own state of life? So, I try to make this very personal, and make it into a self-portrait. It is not a portrait that you see, it is a portrait of what is inside you. For example, in a human I put all these circles: all the energy coming to one direction. In a human life, you have a choice. You see all the things in front of you: the good things, the bad things. It represents all this energy, and the energy represents all these choices. All the energy coming together towards one common goal represents that you have a lot of choice to decide what is right for you or not. That makes the human life special. That is how I play with the fire and the waves together. I quite like the water and fire. It is also a political symbol for me, because the elements and the modern politics that we are dealing with: you are constantly challenged by the environment that you are staying in. The water and fire elements can destroy you, or enrich you. It is the energy of transformation, an energy of clearing and purifying things. It’s also a very politically symbolic element. Now, we are finally realizing how much we are connecting with the environment. This is how we come to talk about global warming, because we are playing too much with the energy.”
 

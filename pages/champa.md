@@ -51,3 +51,8 @@
 **Where do you stand on the issue of fighting for independence vs autonomy?**
 <br>
 “I just snatched $100 bill from you. Do you want $50 back, or the whole $100? I would not say just give me the $50 back, I am not a fool. This is the situation. However, China is strong, so some people say there is no way to get back pure independence, and that it is better to live under Chinese rule. The Chinese are planning to genocide the Tibetan culture. Before the Chinese succeeds, if we can get control of our own culture and religion, then the autonomous region is fine. However, if we want our own culture, language, religion forever, then independence is best. When we say independence is best, the elders say, how can you fight for independence? If you fight, you alone will have to fight thousands of Chinese soldiers. Do you have weapons, armor? This is the way some elders think.”
+
+Champa - Tibetan Teacher
+
+---
+[Back](/pages/humans_of_dharamshala.md)

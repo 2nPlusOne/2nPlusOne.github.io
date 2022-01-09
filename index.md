@@ -14,9 +14,6 @@
 [Humans of Dharamshala](/humans_of_dharamshala)
 <img src="images/carpe-diem.jpeg?raw=true"/>
 
-[Photography](https://www.eyeem.com/u/spiceofthelens)
-<img src="images/humayun.png?raw=true"/>
-
 [Artwork](https://www.instagram.com/rwebbart/)
 <img src="images/eye.png?raw=true"/>
 
@@ -24,8 +21,11 @@
 
 ---
 
-### Other Interests
+### Hobbies
 
 [Advent of Code](https://github.com/2nPlusOne/AoC-2021)
+
+[Photography](https://www.eyeem.com/u/spiceofthelens)
+<img src="images/humayun.png?raw=true"/>
 
 ---

@@ -1,8 +1,10 @@
 # Portfolio
 
 ---
+---
 
 ## Development
+---
 
 ### [Snake 2000](/Snake2000)
 <img src="images/snake_thumbnail.png?raw=true"/>
@@ -11,6 +13,7 @@
 ---
 
 ## Creative
+---
 
 ### [Artwork](https://www.instagram.com/rwebbart/)
 <img src="images/eye.png?raw=true"/>
@@ -24,6 +27,7 @@
 ---
 
 ## Hobbies
+---
 
 ### [Advent of Code](https://github.com/2nPlusOne/AoC-2021)
 <img src="images/adventofcode.png?raw=true"/>

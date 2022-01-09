@@ -5,7 +5,6 @@
 ### Development
 
 [Snake 2000](/snake_2000)
-
 <img src="images/snake_thumbnail.png?raw=true"/>
 
 ---

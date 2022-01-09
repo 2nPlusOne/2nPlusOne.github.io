@@ -8,5 +8,6 @@ This spot costs rent from me. One day is 280 rupees. Off season is not good busi
 I have 5 friends, very very near my heart. One girl, I miss her. Another friend, sometimes he meets me. He is in Rajasthan. Sometimes I go there, so I meet him.”
 
 Vijay – Shoe Doctor
+
 ---
 ### [Back](/pages/humans_of_dharamshala.md)

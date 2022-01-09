@@ -5,7 +5,7 @@ While studying in Dharamshala, India, I volunteered with Hope Gallery/Wild Yak S
 ![Javid](images/javid.jpg)
 
 ### [Vijay - Shoe Doctor](/vijay.md)
-![Vijay](images/vijay2.jpg)
+![Vijay](images/vijay1.jpg)
 
 ### [Riccardo - Student](/riccardo.md)
 ![Riccardo](images/riccardo.jpeg)

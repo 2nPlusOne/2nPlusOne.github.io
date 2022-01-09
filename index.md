@@ -26,9 +26,10 @@
 ### Hobbies
 
 [Advent of Code](https://github.com/2nPlusOne/AoC-2021)
+
 <img src="images/adventofcode.png?raw=true"/>
 
---
+---
 
 [Photography](https://www.eyeem.com/u/spiceofthelens)
 <img src="images/humayun.png?raw=true"/>

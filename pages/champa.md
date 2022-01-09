@@ -1,5 +1,15 @@
 ## Champa - Tibetan Teacher
 
+--
+--
+
+While in Dharamshala, I had the opportunity to talk with Champa, a Tibetan man who lived a nomadic lifestyle in Tibet until he was 8 years old, when he made the treacherous journey to India in search of an education. Champa teaches Tibetan dance and music at a college near Dharamshala.
+
+Below is my interview with Champa.
+
+--
+--
+
 **What was your childhood like in Tibet?**
 <br>
 “I had a nomad life until the age of eight. I spent eight years in nomad society, so with the animals and farm. Then I moved to a town, just to get the chance to study. I did class 1 from when I was eight years old. The school fees and the tax were high. Because of this reason, my family planned to send me away to India. Learning in India is free of cost, and I would have more freedom there. So they managed to send me away to here. When I was in Tibet, the tax was very strange. There were two semesters: the first semester, you had to give 20kg of animal bones to China. I don’t know what they did with these bones. In another semester we had to give 20kg of paper: books, textbooks, whatever. Animal bones are okay for us, because we have animals with us, and we eat a lot of meat. The books are difficult for us, because I am the only one who goes to school, so for the whole family, I am the only one. Even my textbooks didn’t weigh that much, so I had to go over here, over there, just to collect the books for the tax.”
@@ -55,4 +65,4 @@
 Champa - Tibetan Teacher
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

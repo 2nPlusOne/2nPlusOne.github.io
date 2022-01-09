@@ -10,4 +10,4 @@ I have 5 friends, very very near my heart. One girl, I miss her. Another friend,
 Vijay – Shoe Doctor
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

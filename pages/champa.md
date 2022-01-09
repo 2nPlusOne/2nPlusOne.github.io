@@ -3,7 +3,7 @@
 ---
 ---
 
-While in Dharamshala, I had the opportunity to talk with Champa, a Tibetan man who lived a nomadic lifestyle in Tibet until he was 8 years old, when he made the treacherous journey to India in search of an education. Champa teaches Tibetan dance and music at a college near Dharamshala.
+While in Dharamshala, I had the opportunity to talk with Champa, a Tibetan man who lived a nomadic lifestyle in Tibet until he was 8 years old, when he made the treacherous journey to India in search of an education. Champa teaches Tibetan language, dance, and music at a college near Dharamshala.
 
 Below is my interview with Champa.
 

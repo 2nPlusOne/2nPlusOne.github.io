@@ -12,7 +12,7 @@
 ### Creative
 
 [Humans of Dharamshala](/humans_of_dharamshala)
-<img src="images/carpe-diem.jpeg" width="500/>
+<img src="images/carpe-diem.jpeg?raw=true"/>
 
 [Photography](https://www.eyeem.com/u/spiceofthelens)
 <img src="images/humayun.png?raw=true"/>

@@ -25,7 +25,7 @@
 
 ### Hobbies
 
-[Advent of Code](https://github.com/2nPlusOne/AoC-2021)
+[Advent of Code](https://github.com/2nPlusOne/AoC-2021) <br>
 <img src="images/adventofcode.png?raw=true"/>
 
 ---

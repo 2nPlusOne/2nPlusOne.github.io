@@ -10,4 +10,4 @@ I came to Dharamshala to learn English. I’ve been here 5 months, and I will go
 Tenzin Losel – English Student
 
 ---
-### [Back](/pages/humans_of_dharamshala.md)
+### [Back](/pages/humans_of_dharamshala)

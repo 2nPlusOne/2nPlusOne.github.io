@@ -4,7 +4,7 @@
 
 ### Development
 
-[Snake 2000](/snake2000)
+[Snake 2000](/Snake2000)
 <img src="images/snake_thumbnail.png?raw=true"/>
 
 ---

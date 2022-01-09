@@ -7,3 +7,6 @@ We are Muslims, and they are Christians, Buddhists and Hindus: all the religions
 Half of Kashmir is occupied in Pakistan, and half is occupied in India: but the people are the same. They want to meet each other; they want borders to open, to meet their families, to live together, to come and go. The India Pakistan war is not helping. They can not solve the problem. Many times, they have tried to solve the problem, but it is not happening. Both sides are killing, army and terrorists. You can not be anybody’s friend. If I am a friend of an army man, the terrorists will kill me. If I am a friend of a terrorist, the army will kill me. So, we had no choice, we had to leave Kashmir."
 
 Javid - Shopkeeper
+
+---
+### [Back](/humans_of_dharamshala)

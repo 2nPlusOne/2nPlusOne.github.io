@@ -32,7 +32,7 @@ While studying in Dharamshala, India, I volunteered with Hope Gallery/Wild Yak S
 
 ## Extended Interviews with Tibetans
 
-### [Champa - Dance/Music Teacher](/pages/champa)
+### [Champa - Language/Dance/Music Teacher](/pages/champa)
 
 ---
 

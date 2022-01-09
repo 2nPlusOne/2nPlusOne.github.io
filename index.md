@@ -17,7 +17,7 @@
 
 ---
 
-### [Humans of Dharamshala](/humans_of_dharamshala)
+### [Humans of Dharamshala](/pages/humans_of_dharamshala)
 <img src="images/carpe-diem.jpeg?raw=true"/>
 
 ---

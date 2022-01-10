@@ -11,12 +11,6 @@ Below is my conversation with Karma Sichoe.
 ---
 ---
 
-**What artistic medium do you primarily work with?**
-<br>
-“I work with Papier-mâché, waste material…”
-
----
-
 **What are your thoughts about studying and teaching thangka to preserve that aspect of Tibetan identity?**
 <br>
 “First of all, I am not much into preserving. I don’t know… the word preserving, categorizing… they are a bit too stereotyped for me. I feel like it is better to share, so there is not much of a sense of preserving identity, culture, these things. My way of sharing is not so much towards preserving, it is more about sharing. Yes of course there are people who also share with the thought of preserving. For me, to hold onto the past. . . it is something you are stuck with. You hold, and you are not able to move on. So, if you sincerely are moving ahead, you don’t need to worry about preservation. That is how I function, you know? Preserving, I don’t think much of that.”

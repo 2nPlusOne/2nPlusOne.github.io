@@ -10,6 +10,11 @@
 <img src="images/snake_thumbnail.png?raw=true"/>
 
 ---
+
+### [Stardust](https://itch.io/jam/gamedevtv-jam-2022/rate/1553285)
+<img src="images/Stardust_Banner_transparent.png?raw=true"/>
+
+---
 ---
 
 ## Creative

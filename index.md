@@ -12,7 +12,7 @@
 ---
 
 ### [Stardust](https://itch.io/jam/gamedevtv-jam-2022/rate/1553285)
-<a href="https://www.qries.com/">
+<a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1553285">
   <img alt="An image of the Stardust banner logo." src="images/Stardust_Banner_transparent.png?raw=true">
 </a>
 

@@ -1,13 +1,13 @@
 # Development
 
-<a href="/Snake2000">
-  <img alt="An image of the Snake 2000 title banner." src="images/snake_thumbnail.png?raw=true">
+<a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1553285">
+  <img alt="An image of the Stardust title banner." src="images/Stardust_Banner_transparent.png?raw=true">
 </a>
 
 <br><br>
 
-<a href="https://itch.io/jam/gamedevtv-jam-2022/rate/1553285">
-  <img alt="An image of the Stardust title banner." src="images/Stardust_Banner_transparent.png?raw=true">
+<a href="/Snake2000">
+  <img alt="An image of the Snake 2000 title banner." src="images/snake_thumbnail.png?raw=true">
 </a>
 
 <br><br>
